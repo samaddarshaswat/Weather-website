@@ -1,0 +1,14 @@
+{
+  "name": "weather-website",
+  "version": "1.0.0",
+  "description": "weather website using api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaswat",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
